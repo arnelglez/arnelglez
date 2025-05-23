@@ -1,68 +1,75 @@
-# 👨‍💻 Arnel González Rodríguez
+# 👋 Arnel González Rodríguez
 
-**Senior Fullstack Developer | Python, JavaScript, Go | Vue, Angular, React | Django, Express, Go**
+**Senior Fullstack Developer | Python, JavaScript, Dart | Flutter, Django, React, Node.js, Go**
 
-Hi there! I'm Arnel, a passionate Fullstack Developer with solid experience in building scalable, maintainable, and high-performance applications across web, desktop, and mobile platforms.
-
----
-
-## 🚀 About Me
-
-- 💻 I specialize in **Python development** across multiple paradigms:  
-  - Web applications (Django)  
-  - MVC desktop apps (PyQt)  
-  - Scripting, automation, and API integrations  
-
-- ⚙️ Backend experience with:  
-  - **Django**, **Express (Node.js)**, and **Go (Golang)**  
-  - RESTful APIs, WebSockets, PostgreSQL, MongoDB  
-  - Microservices, background workers, and job queues
-
-- 🧩 Frontend expertise:  
-  - **Vue.js**, **Angular**, and **React**  
-  - SPA development, dynamic dashboards, component-based UI architecture
-
-- 🧪 Focus on clean code, testing (unit/integration), and CI/CD pipelines
-
-- 🌍 Currently exploring international opportunities with relocation sponsorship
+Hi, I'm Arnel — a Senior Software Developer with extensive experience building scalable web, desktop, and mobile applications using modern technologies. I have led teams, mentored developers, and designed full system architectures for production-ready applications.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Frontend:**  
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-**Databases & Infra:**  
-PostgreSQL • MongoDB • Redis • Docker • Nginx • Linux • GitHub Actions
+- 💼 8+ years of experience in **fullstack development**, with a strong focus on **Python**, **JavaScript**, and **Dart**
+- 📱 **Senior in Flutter**, with additional knowledge in **Kotlin** and **Swift** for mobile integration
+- 🖥️ Proficient in backend development with **Django**, **Express.js**, **Go**, and **Node.js**
+- 🌐 Solid frontend experience using **React**, **Vue**, **Angular**, **Next.js**, **Astro**, and **Ember.js**
+- 📊 Skilled in database modeling using **PostgreSQL**, **MongoDB**, **MySQL**, and **SQL Server**
+- 🧩 Strong understanding of software architecture, clean code practices, and agile methodologies
+- 🧑‍🏫 Passionate about **code reviews, mentorship**, and team collaboration
+- 🌍 Open to remote work and relocation to improve the quality of life for my family
 
 ---
 
-## 📦 Featured Projects
+## 🔧 Tech Stack
 
-🚧 *(coming soon – feel free to add your key repos with descriptions here)*
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EF3D22?style=flat&logo=code&logoColor=white)
+
+### Mobile & Desktop
+- **Flutter (Senior)**
+- Kotlin • Swift • PyQt • Tkinter • Delphi
+
+### Frontend
+- React.js • Next.js • Vue.js • Angular • Ember.js • Astro.js
+- Tailwind CSS • HTML • CSS
+
+### Backend
+- Django & Django REST Framework
+- Express.js • Node.js • Go
+- Laravel • Odoo
+
+### Databases
+- PostgreSQL • MySQL • MongoDB • SQL Server • SQLite
+
+### DevOps & Tools
+- Git • GitHub Actions • Docker • Nginx • Linux • Google Analytics
+
+### Extras
+- Agile Methodologies (Scrum, Kanban)
+- Software Architecture Definition
+- Code Reviews and Mentorship
+- REST API design • Microservices • CI/CD
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Featured Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arnel-gonz%C3%A1lez-rodr%C3%ADguez-3b0a521a2/)
-- 📬 arnel.your.email@example.com *(replace with your real one)*
-- 🌍 Looking for remote or relocation opportunities
+(Coming soon — Let me know which projects you want highlighted here, and I’ll write this section for you.)
 
 ---
 
-_Thanks for stopping by! Feel free to check out my repositories, contributions, and ongoing work._
+## 📫 Contact Me
+
+- 🌐 [LinkedIn](www.linkedin.com/in/arnelglez)
+- 📧 arnel.glez@gmail.com 
+- 🗺️ Currently in Cuba — available for remote or relocation opportunities
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, check out my work, or get in touch if you're interested in collaborating or hiring.
