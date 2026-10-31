@@ -1,75 +1,66 @@
-# 👋 Arnel González Rodríguez
+# Arnel González Rodríguez
 
-**Senior Fullstack Developer | Python, JavaScript, Dart | Flutter, Django, React, Node.js, Go**
+**Senior full-stack engineer** · Remote · SaaS · React · TypeScript · Node.js · Python · Flutter · AWS
 
-Hi, I'm Arnel — a Senior Software Developer with extensive experience building scalable web, desktop, and mobile applications using modern technologies. I have led teams, mentored developers, and designed full system architectures for production-ready applications.
+Senior full-stack engineer with **15+ years** shipping web and mobile products and running **Linux** and **Docker**. Recent work: live SaaS at [7secondsdating.com](https://7secondsdating.com) and [app.7secondsdating.com](https://app.7secondsdating.com) (Flutter, React, Astro, Express, SQL, AWS), with **Cursor** and **Claude** in the daily workflow since 2026. Also client sites and team web apps on **Next.js**, **Django**, **Prisma**, and **Express**, with **GitHub Copilot** since 2022.
 
----
-
-## 🧠 About Me
-
-- 💼 8+ years of experience in **fullstack development**, with a strong focus on **Python**, **JavaScript**, and **Dart**
-- 📱 **Senior in Flutter**, with additional knowledge in **Kotlin** and **Swift** for mobile integration
-- 🖥️ Proficient in backend development with **Django**, **Express.js**, **Go**, and **Node.js**
-- 🌐 Solid frontend experience using **React**, **Vue**, **Angular**, **Next.js**, **Astro**, and **Ember.js**
-- 📊 Skilled in database modeling using **PostgreSQL**, **MongoDB**, **MySQL**, and **SQL Server**
-- 🧩 Strong understanding of software architecture, clean code practices, and agile methodologies
-- 🧑‍🏫 Passionate about **code reviews, mentorship**, and team collaboration
-- 🌍 Open to remote work and relocation to improve the quality of life for my family
+**Languages:** Spanish (native) · English (B1)
 
 ---
 
-## 🔧 Tech Stack
+## Selected work
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EF3D22?style=flat&logo=code&logoColor=white)
-
-### Mobile & Desktop
-- **Flutter (Senior)**
-- Kotlin • Swift • PyQt • Tkinter • Delphi
-
-### Frontend
-- React.js • Next.js • Vue.js • Angular • Ember.js • Astro.js
-- Tailwind CSS • HTML • CSS
-
-### Backend
-- Django & Django REST Framework
-- Express.js • Node.js • Go
-- Laravel • Odoo
-
-### Databases
-- PostgreSQL • MySQL • MongoDB • SQL Server • SQLite
-
-### DevOps & Tools
-- Git • GitHub Actions • Docker • Nginx • Linux • Google Analytics
-
-### Extras
-- Agile Methodologies (Scrum, Kanban)
-- Software Architecture Definition
-- Code Reviews and Mentorship
-- REST API design • Microservices • CI/CD
+| Product | Stack (high level) | Notes |
+|--------|---------------------|--------|
+| [7secondsdating.com](https://7secondsdating.com) · [app.7secondsdating.com](https://app.7secondsdating.com) | Flutter, React, Astro, Express, SQL, AWS | Video-first dating — profiles, matching, chat (NTSprint, 2024–present) |
+| [aatreeservicestx.com](https://aatreeservicestx.com) · [jmabaservices.com](https://jmabaservices.com) | React, Astro, Vue, Django, Express | Client sites shipped to production (freelance) |
+| [myaipeople.com](https://myaipeople.com) · [artwork.myaipeople.com](https://artwork.myaipeople.com) · [artworld.myaipeople.com](https://artworld.myaipeople.com) | Next.js, Django, Prisma | Team web apps (freelance) |
+| **Vendix** (POS) | Flutter, Django, Go | One codebase for web, Windows, and mobile; shared routes covered with contract tests |
 
 ---
 
-## 🚀 Featured Projects
+## Experience (short)
 
-(Coming soon — Let me know which projects you want highlighted here, and I’ll write this section for you.)
-
----
-
-## 📫 Contact Me
-
-- 🌐 [LinkedIn](www.linkedin.com/in/arnelglez)
-- 📧 arnel.glez@gmail.com 
-- 🗺️ Currently in Cuba — available for remote or relocation opportunities
+- **SDE II** · NTSprint · 2024 — present  
+- **Full-stack developer** · Freelance · 2022 — 2024  
+- **Senior IT specialist** · Tobacco Collection and Processing Company · 2013 — 2022  
+- **Informatics engineer** · University of Sancti Spíritus José Martí Pérez · graduated 2010 (thesis 5/5, average 4.02/5)
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, check out my work, or get in touch if you're interested in collaborating or hiring.
+## Tech stack
+
+**Programming:** TypeScript, JavaScript, Python, Dart, PHP, C++, Delphi  
+
+**Frontend:** React, Next.js, Astro, Vue.js, Tailwind CSS, Angular, HTML, CSS, Bootstrap  
+
+**Backend:** Node.js, Express, Django, Laravel, Odoo  
+
+**Mobile & desktop:** Flutter, PyQt, PySide, Flet  
+
+**Data:** PostgreSQL, MySQL, MongoDB, DynamoDB, Prisma, SQL  
+
+**Cloud & systems:** AWS, Linux, Docker  
+
+**AI-assisted development:** GitHub Copilot, Cursor, Claude  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/arnelglez/)
+- [Email](mailto:arnel.glez@gmail.com)
+- **Location:** Cabaiguán, Cuba · **Open to remote work**
