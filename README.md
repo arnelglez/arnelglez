@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnelglez/)
 [![Email](https://img.shields.io/badge/Email-arnel.glez%40gmail.com-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnel.glez@gmail.com)
 [![Live product](https://img.shields.io/badge/Live-7secondsdating.com-1E3A5F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://7secondsdating.com)
+[![App Store](https://img.shields.io/badge/App_Store-Glo_Tanning-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/glo-tanning-app/id6763077961)
+[![Google Play](https://img.shields.io/badge/Google_Play-Glo_Tanning-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.glotanning.glo_tanning_app)
 
 </div>
 
@@ -17,7 +19,7 @@
 | | |
 | :-- | :-- |
 | **Experience** | **15+ years** — webmaster → Linux/Docker ops → full-stack (web, mobile, SaaS) |
-| **Now** | **SDE II @ NTSprint** — video-first dating in production + mobile app in pre-production |
+| **Now** | **SDE II @ NTSprint** — live SaaS (7 Seconds) + **Glo Tanning** on **App Store** & **Google Play** |
 | **Proof** | Public URLs you can open today (table below) |
 | **Location** | Cabaiguán, Cuba · **Remote** · Spanish (native) · English (B1) |
 
@@ -30,7 +32,7 @@ I build products end to end: **Flutter and React** clients, **Node/Express** and
 **Recent impact**
 
 - **Live SaaS** — [7secondsdating.com](https://7secondsdating.com) and [app.7secondsdating.com](https://app.7secondsdating.com): profiles, matching, and chat across **Flutter**, **React**, **Astro**, **Express**, **SQL**, and **AWS** (2024–present).
-- **Glo Tanning (pre-production)** — Auth, membership, and in-app purchases in **Flutter**; started the **Laravel** API and handed it off so API and app could run in parallel.
+- **[Glo Tanning](https://www.glotanning.com)** — Consumer **Flutter** app on **[App Store](https://apps.apple.com/us/app/glo-tanning-app/id6763077961)** and **[Google Play](https://play.google.com/store/apps/details?id=com.glotanning.glo_tanning_app)**: membership, loyalty, plan changes, and purchases via **Laravel** `/api/v1`. Started the API and handed it to a teammate so backend and mobile could ship in parallel (**Riverpod**, clean architecture).
 - **Freelance delivery** — Client sites on **React**, **Astro**, and **Vue** with **Django** / **Express**; team apps on **Next.js**, **Django**, and **Prisma** ([myaipeople.com](https://myaipeople.com) family).
 - **Vendix POS** — One **Flutter** codebase for web, Windows, and mobile; **Django** API + **Go** service; shared routes guarded with **contract tests**.
 - **Nine years, one institution** — Owned development and operations for a provincial company web presence, **Linux** servers, **Docker**, and the local IT group (2013–2022).
@@ -49,6 +51,7 @@ I build products end to end: **Flutter and React** clients, **Node/Express** and
 
 | | Product | What it is | Stack |
 | :--: | :-- | :-- | :-- |
+| 🟢 | **[Glo Tanning](https://www.glotanning.com)** · [iOS](https://apps.apple.com/us/app/glo-tanning-app/id6763077961) · [Android](https://play.google.com/store/apps/details?id=com.glotanning.glo_tanning_app) | Franchise membership app — plans, loyalty, referrals | Flutter · Laravel · REST |
 | 🟢 | **[7 Seconds Dating](https://7secondsdating.com)** · [App](https://app.7secondsdating.com) | Video-first dating — profiles, matching, chat | Flutter · React · Astro · Express · SQL · AWS |
 | 🟢 | **[AA Tree Services TX](https://aatreeservicestx.com)** · **[J Maba Services](https://jmabaservices.com)** | Client sites in production | React · Astro · Vue · Django · Express |
 | 🟢 | **[My AI People](https://myaipeople.com)** · [Artwork](https://artwork.myaipeople.com) · [Artworld](https://artworld.myaipeople.com) | Team-built web apps | Next.js · Django · Prisma |
