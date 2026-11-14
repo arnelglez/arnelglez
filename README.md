@@ -20,7 +20,7 @@
 | :-- | :-- |
 | **Experience** | **15+ years** — webmaster → Linux/Docker ops → full-stack (web, mobile, SaaS) |
 | **Now** | **SDE II @ NTSprint** — live SaaS (7 Seconds) + **Glo Tanning** on **App Store** & **Google Play** |
-| **Proof** | Public URLs you can open today (table below) |
+| **Proof** | Public URLs + **own products** (Vendix POS, Biz Control) |
 | **Location** | Cabaiguán, Cuba · **Remote** · Spanish (native) · English (B1) |
 
 ---
@@ -34,7 +34,7 @@ I build products end to end: **Flutter and React** clients, **Node/Express** and
 - **Live SaaS** — [7secondsdating.com](https://7secondsdating.com) and [app.7secondsdating.com](https://app.7secondsdating.com): profiles, matching, and chat across **Flutter**, **React**, **Astro**, **Express**, **SQL**, and **AWS** (2024–present).
 - **[Glo Tanning](https://www.glotanning.com)** — Consumer **Flutter** app on **[App Store](https://apps.apple.com/us/app/glo-tanning-app/id6763077961)** and **[Google Play](https://play.google.com/store/apps/details?id=com.glotanning.glo_tanning_app)**: membership, loyalty, plan changes, and purchases via **Laravel** `/api/v1`. Started the API and handed it to a teammate so backend and mobile could ship in parallel (**Riverpod**, clean architecture).
 - **Freelance delivery** — Client sites on **React**, **Astro**, and **Vue** with **Django** / **Express**; team apps on **Next.js**, **Django**, and **Prisma** ([myaipeople.com](https://myaipeople.com) family).
-- **Vendix POS** — One **Flutter** codebase for web, Windows, and mobile; **Django** API + **Go** service; shared routes guarded with **contract tests**.
+- **Own products** — **[Vendix](#vendix)** (POS for web, Windows, and mobile) and **[Biz Control](#biz-control)** (chain back office); see below.
 - **Nine years, one institution** — Owned development and operations for a provincial company web presence, **Linux** servers, **Docker**, and the local IT group (2013–2022).
 
 <details>
@@ -47,6 +47,28 @@ I build products end to end: **Flutter and React** clients, **Node/Express** and
 
 ---
 
+## Own products
+
+Retail stack I designed and built — private repos; descriptions match what ships in stores and back offices.
+
+### Vendix
+
+<a id="vendix"></a>
+
+**Point of sale** for sales, inventory, and **daily close**.
+
+One **Flutter** client for **web**, **Windows**, and **mobile** (Bloc / Riverpod, code generation). **Django** API plus a **Go** service on shared **REST** routes, with **contract tests** and **CI/CD** across clients.
+
+### Biz Control
+
+<a id="biz-control"></a>
+
+**Chain back office** — ready and in **promotion** (2026–present).
+
+**React**, **Django**, and **PostgreSQL** web app for a store chain, built next to Vendix. Ingests the **Vendix daily export** for consolidated **sales**, **stock**, and **warehouse** views. Replaces the legacy **ControlTaller** desktop app (PyQt + SQLite).
+
+---
+
 ## Production portfolio
 
 | | Product | What it is | Stack |
@@ -55,9 +77,10 @@ I build products end to end: **Flutter and React** clients, **Node/Express** and
 | 🟢 | **[7 Seconds Dating](https://7secondsdating.com)** · [App](https://app.7secondsdating.com) | Video-first dating — profiles, matching, chat | Flutter · React · Astro · Express · SQL · AWS |
 | 🟢 | **[AA Tree Services TX](https://aatreeservicestx.com)** · **[J Maba Services](https://jmabaservices.com)** | Client sites in production | React · Astro · Vue · Django · Express |
 | 🟢 | **[My AI People](https://myaipeople.com)** · [Artwork](https://artwork.myaipeople.com) · [Artworld](https://artworld.myaipeople.com) | Team-built web apps | Next.js · Django · Prisma |
-| 🔧 | **Vendix** | Point of sale — sales, inventory, daily close | Flutter · Django · Go |
+| 🏷️ | **[Vendix](#vendix)** | Own product · POS — sales, inventory, daily close | Flutter · Django · Go · contract tests |
+| 🏷️ | **[Biz Control](#biz-control)** | Own product · chain back office (in promotion) | React · Django · PostgreSQL |
 
-🟢 = live URL · 🔧 = product without public marketing site (code private)
+🟢 = live URL · 🏷️ = own product (code private)
 
 ---
 
@@ -87,7 +110,7 @@ TypeScript · JavaScript · Python · Dart · PHP · C++ · Delphi
 React · Next.js · Astro · Vue.js · Tailwind · Angular · HTML/CSS
 
 **Backend**  
-Node.js · Express · Django · Laravel · Odoo
+Node.js · Express · Django · Laravel · Odoo · Go (Vendix service)
 
 </td>
 <td valign="top" width="50%">
@@ -114,6 +137,7 @@ Linux · Docker · GitHub Copilot · Cursor · Claude
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
 </p>
 
 ---
